@@ -18,3 +18,10 @@
 /build/pfctutor/obj
 /build/security administrator/obj
 /build/security scanner/obj
+/.pb/pfc_tests/obj
+/.pb/pfc_tests/data
+/build/pfc_tests
+/tests/pfctests.pbl/n_pbunit_registry.sru
+
+# PEAT demo local security settings (see demoapp/peat_security.ini.example)
+demoapp/peat_security.ini
